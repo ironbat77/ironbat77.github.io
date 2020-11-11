@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#">
+
+<head>
+<title>Vu Hai NGUYEN - Data Engineer</title>
+<meta name="description" content="Data engineer with a background in aeronautics focusing on Scala, Spark and data visualisation."/>
+<meta property="og:title" content="Vu Hai NGUYEN - Data Engineer"/>
+<meta property="og:image" content="http://ironbat77.github.io/img/timeline.jpg"/>
+<meta property="og:description" content="Data engineer with a background in aeronautics focusing on Scala, Spark and data visualisation."/>
+<meta property="og:url" content="http://ironbat77.github.io/" />
+<meta charset="utf-8"/>
+<link rel="icon" href="img/profile.png"/>
+</head>
+
+<svg></svg>
+
+<!-- d3 -->
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="https://d3js.org/d3-scale.v1.min.js"></script>
+<!-- The library which draws the word cloud -->
+<script src="https://cdn.rawgit.com/jasondavies/d3-cloud/master/build/d3.layout.cloud.js"></script>
+<!-- Google fonts -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Heebo">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Esteban">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu">
+<!-- Jquery, dependency for tipsy: -->
+<script src="https://code.jquery.com/jquery-latest.min.js"></script>
+<!-- Tipsy (tooltips) the javascript code is a modified version of the original tipsy, tuned for d3: -->
+<script src="https://cdn.rawgit.com/mccannf/1629644/raw/6265dc6e0935b9463bb924fa377e99617624f6a4/jquery.tipsy.js"></script>
+<link type="text/css" rel="stylesheet" href="https://cdn.rawgit.com/creativedream/jquery.tipsy/master/css/jquery.tipsy.css"/>
+<!-- My code: -->
+<script type="text/javascript" src="src/word_cloud/WordCloud.js"></script>
+<script type="text/javascript" src="src/time_line/TimeLine.js"></script>
+<script type="text/javascript" src="src/time_line/shapes/Circle.js"></script>
+<script type="text/javascript" src="src/time_line/shapes/Ray.js"></script>
+<script type="text/javascript" src="src/time_line/shapes/Arc.js"></script>
+<script type="text/javascript" src="src/time_line/shapes/TooltipImages.js"></script>
+<script type="text/javascript" src="src/time_line/data.js"></script>
+<script type="text/javascript" src="src/text/TextsAndImages.js"></script>
+<!--script type="text/javascript" src="src/divers/StackOverflow.js"></script-->
+<!--script type="text/javascript" src="src/divers/Github.js"></script-->
+<!--script type="text/javascript" src="src/divers/Codewars.js"></script-->
+<script>
+
+d3.select("body").style("background-color", "#F1E9ED");
+
+// The top div which contains the whole graph:
+let svg = d3.select("svg")
+  // The following attributes allow me to size/scale back the graph based on
+  // the user's browser own window size:
+  .attr("preserveAspectRatio", "xMinYMin meet")
+  .attr("viewBox", "0 0 1250 1475")
+  .classed("svg-content", true)
+  .append("g");
+
+// The order matters for svg z-index equivalent:
+let textImagesSvg = svg.append("g");
+let cloudSvg = svg.append("g");
+let soSvg = svg.append("g");
+let githubSvg = svg.append("g");
+let codewarsSvg = svg.append("g");
+let timeLineSvg = svg.append("g");
+
+new TextsAndImages(textImagesSvg, "data/random_text_and_images.json", 625, 0);
+new TimeLine(timeLineSvg, "data/time_line.json", -85, 50);
+new WordCloud(cloudSvg, "data/word_cloud_competences.json", 960, 265);
+//new StackOverflowFlair(soSvg, 870, 1135);
+//new GithubFlair("ironbat77", githubSvg, 960, 1000);
+//new CodewarsFlair("xavierguihot", codewarsSvg, 366, 1039);
+
+</script>
+
+</html>

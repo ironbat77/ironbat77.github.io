@@ -1,0 +1,698 @@
+{
+  "life_parts": [
+    {
+      "center_x": 289,
+      "center_y": 222,
+      "label": "1991-2009",
+      "rays": [
+        {
+          "length": 151, "angle": 117,
+          "text": { "label": "Born", "color": "black", "font": "Ubuntu", "size": 11, "dy": 0.3 },
+          "tooltip": "July 07, 1991<br>Nha Trang, Viet Nam",
+          "mouseover_images": [
+            {
+              "path": "img/nhatrang.png",
+              "x": 250, "y": 100, "width": 250, "height": 200
+            }
+          ],
+          "ray": { "width": 3.5, "color": "black" }
+        },
+        {
+          "length": 188, "angle": 134,
+          "text": { "label": "1992", "color": "#00b8e6", "font": "Esteban", "size": 11, "dy": 0.6 },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 105, "angle": 151, "ray": { "width": 0.6, "color": "grey" }
+        },
+        {
+          "length": 188, "angle": 168,
+          "text": { "label": "1994", "color": "#00b8e6", "font": "Esteban", "size": 11, "dy": 0.6 },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 105, "angle": 185, "ray": { "width": 0.6, "color": "grey" }
+        },
+        {
+          "length": 188, "angle": 202,
+          "text": { "label": "1996", "color": "#00b8e6", "font": "Esteban", "size": 11, "dy": 0.6 },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 85, "angle": 219, "ray": { "width": 0.6, "color": "grey" }
+        },
+        {
+          "length": 188, "angle": 236,
+          "text": { "label": "1998", "color": "#00b8e6", "font": "Esteban", "size": 11, "dy": 0.6 },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 85, "angle": 253, "ray": { "width": 0.6, "color": "grey" }
+        },
+        {
+          "length": 188, "angle": 270.5,
+          "text": { "label": "2000", "color": "#00b8e6", "font": "Esteban", "size": 11, "dy": 0.6 },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 85, "angle": 287, "ray": { "width": 0.6, "color": "grey" }
+        },
+        {
+          "length": 188, "angle": 304,
+          "text": { "label": "2002", "reverse_text": true, "color": "#00b8e6", "font": "Esteban", "size": 11, "dy": 0.6 },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 85, "angle": 321, "ray": { "width": 0.6, "color": "grey" }
+        },
+        {
+          "length": 188, "angle": 338,
+          "text": { "label": "2004", "reverse_text": true, "color": "#00b8e6", "font": "Esteban", "size": 11, "dy": 0.6 },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 85, "angle": 355, "ray": { "width": 0.6, "color": "grey" }
+        },
+        {
+          "length": 188, "angle": 12,
+          "text": { "label": "2006", "reverse_text": true, "color": "#00b8e6", "font": "Esteban", "size": 11, "dy": 0.6 },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 85, "angle": 29, "ray": { "width": 0.6, "color": "grey" }
+        },
+        {
+          "length": 188, "angle": 46,
+          "text": { "label": "2008", "reverse_text": true, "color": "#00b8e6", "font": "Esteban", "size": 11, "dy": 0.6 },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 85, "angle": 63, "ray": { "width": 0.6, "color": "grey" }
+        }
+      ],
+      "arcs": [
+        {
+          "inner_radius": 77, "start_angle": 206, "end_angle": 292,
+          "text": {
+            "label": "Childhood", "reverse_text": false, "color": "grey", "size": 12
+          },
+          "gradient_colors": [
+            { "color": "#00bb6a", "offset": 0 },
+            { "color": "#2298de", "offset": 70 },
+            { "color": "#2c0066", "offset": 100 }
+          ]
+        },
+        {
+          "inner_radius": 106.5, "start_angle": 318, "end_angle": 520,
+          "text": {
+            "label": "School", "reverse_text": false, "color": "#4d4d4d", "size": 11.7
+          },
+          "mouseover_images": [
+            {
+              "path": "img/phuongsai.png",
+              "x": 190, "y": 40, "width": 275, "height": 161
+            },
+            {
+              "path": "img/nguyenvantroi.png",
+              "x": 370, "y": 150, "width": 275, "height": 161
+            }
+          ],
+          "gradient_colors": [
+            { "color": "#00bb34", "offset": 0 },
+            { "color": "#00bb34", "offset": 100 }
+          ]
+        }
+      ]
+    },
+    {
+      "center_x": 366,
+      "center_y": 434,
+      "label": "2009-2010",
+      "rays": [
+        {
+          "length": 188, "angle": 190,
+          "text": { "label": "2009", "color": "#00b8e6", "font": "Esteban", "size": 11, "dy": 0.6 },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 214, "angle": 165,
+          "text": { "label": "Moving to France", "color": "grey", "size": 12, "dy": 0.6, "font": "Esteban" },
+          "mouseover_images": [
+            {
+              "path": "img/nhatrang_toulouse.png",
+              "x": 255, "y": 290, "width": 500, "height": 350
+            }
+          ],
+          "ray": { "width": 1, "color": "lightsteelblue" }
+        },
+        {
+          "length": 214, "angle": 140,
+          "text": { "label": "First line of code", "color": "grey", "size": 12, "dy": 0.6, "font": "Esteban" },
+          "tooltip": "Homework assignement in C<br>Finally something worth studying \\o/",
+          "ray": { "width": 1, "color": "lightsteelblue" }
+        },
+        {
+          "length": 188, "angle": 65,
+          "text": { "label": "2010", "reverse_text": true, "color": "#00b8e6", "font": "Esteban", "size": 11, "dy": 0.6 },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 220, "angle": 50,
+          "text": { "label": "Applying for INSA", "reverse_text": true, "color": "grey", "size": 12, "dy": 0.6, "font": "Esteban" },
+          "tooltip": "<div style=\"font-size:17px;font-weight:medium\">Admission to INSA de Toulouse",
+          "ray": { "width": 1, "color": "lightsteelblue" }
+        }
+      ],
+      "arcs": [
+        {
+          "inner_radius": 98, "start_angle": 340, "end_angle": 94,
+          "text": {
+            "label": "Higher Education", "reverse_text": false, "color": "#4d4d4d", "size": 11.8,
+            "startOffset": "88.5%"
+          },
+          "gradient_colors": [
+            { "color": "#72bde5", "offset": 0 },
+            { "color": "#72bde5", "offset": 100 }
+          ]
+        },
+        {
+          "inner_radius": 77, "start_angle": 320, "end_angle": 105,
+          "text": {
+            "label": "University", "reverse_text": true, "color": "grey", "size": 12
+          },
+          "tooltip": "<div style=\"font-size:17px;font-weight:medium\">University Paul Sabatier (Toulouse, FRANCE)</div>One-year university degree in mathematics and physics<br><br>https://www.univ-tlse3.fr/",
+          "redirect": "https://www.univ-tlse3.fr/",
+          "mouseover_images": [
+            {
+              "path": "img/ut3.png",
+              "x": 400, "y": 135, "width": 275, "height": 161
+            }
+          ],
+          "gradient_colors": [
+            { "color": "#2c0066", "offset": 0 },
+            { "color": "#2298de", "offset": 40 },
+            { "color": "#00bb6a", "offset": 100 }
+          ]
+        }
+      ]
+    },
+    {
+      "center_x": 595,
+      "center_y": 455,
+      "label": "2010-2014",
+      "rays": [
+        {
+          "length": 188, "angle": 265,
+          "text": {
+            "label": "2011", "color": "#00b8e6", "font": "Esteban",
+            "size": 11, "dy": 0.6, "reverse_text": true
+          },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 188, "angle": 335,
+          "text": {
+            "label": "2013", "color": "#00b8e6", "font": "Esteban",
+            "size": 11, "dy": 0.6, "reverse_text": true
+          },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 266, "angle": 5,
+          "text": {
+            "label": "Summer Internship", "color": "grey", "size": 12,
+            "dy": 0.6, "font": "Esteban", "reverse_text": true
+          },
+          "tooltip": "<div style=\"font-size:17px;font-weight:medium\">Continental (Toulouse)</div>Control a 6-axis robot of a test bench<br>(3-month internship)<br><br>Making a UI to command the robot<br>via MatLab",
+          "mouseover_images": [
+            {
+              "path": "img/continental_ui_robot.png",
+              "x": 230, "y": 225, "width": 400, "height": 250
+            },
+            {
+              "path": "img/continental.png",
+              "x": 675, "y": 200, "width": 250, "height": 200
+            },
+            {
+              "path": "img/conti_testbench.png",
+              "x": 500, "y": 500, "width": 250, "height": 150
+            }
+          ],
+          "ray": { "width": 1, "color": "lightsteelblue" }
+        },
+        {
+          "length": 305, "angle": 27,
+          "text": {
+            "label": "Indoor Localization System.", "color": "grey", "size": 12,
+            "dy": 0.6, "font": "Esteban", "reverse_text": true
+          },
+          "tooltip": "<div style=\"font-size:17px;font-weight:medium\">Indoor Localization System</div>(last year team's project)<br><br>Ultrasound signal processing to compute indoor position of a drone in real time<br>",
+          "redirect": "https://sites.google.com/site/projetsecinsa/projets-2013-2014/project-todd",
+          "mouseover_images": [
+            {
+              "path": "img/indoor_ls.png",
+              "x": 300, "y": 250, "width": 313, "height": 224
+            },
+            {
+              "path": "img/indoor_receptor.png",
+              "x": 500, "y": 500, "width": 307, "height": 222
+            }
+          ],
+          "ray": { "width": 1, "color": "lightsteelblue" }
+        }
+      ],
+      "arcs": [
+        {
+          "inner_radius": 111, "start_angle": 276, "end_angle": 520,
+          "gradient_colors": [
+            { "color": "#72bde5", "offset": 0 },
+            { "color": "#72bde5", "offset": 100 }
+          ]
+        },
+        {
+          "inner_radius": 132, "start_angle": -40, "end_angle": 160,
+          "text": {
+            "label": "INSA de Toulouse", "reverse_text": false, "color": "grey"
+          },
+          "tooltip": "<div style=\"font-size:17px;font-weight:medium\">INSA (Toulouse, FRANCE)</div>Institut National des Sciences Appliquées de Toulouse<br><br>Electronic, automatic control,<br>crtitical embedded system...<br><br>French equivalent of a Master's Degree in Engineering",
+          "redirect": "https://en.wikipedia.org/wiki/Institut_national_des_sciences_appliqu%C3%A9es_de_Toulouse",
+          "gradient_colors": [
+            { "color": "#2c0066", "offset": 0 },
+            { "color": "#2298de", "offset": 50 },
+            { "color": "#00bb6a", "offset": 100 }
+          ],
+          "mouseover_images": [
+            {
+              "path": "img/insat.png",
+              "x": 160, "y": 120, "width": 400, "height": 250
+            },
+            {
+              "path": "img/robot.png",
+              "x": 280, "y": 380, "width": 298, "height": 169
+            },
+            {
+              "path": "img/boat.png",
+              "x": 820, "y": 350, "width": 320, "height": 224
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "center_x": 675,
+      "center_y": 671,
+      "label": "2014",
+      "sub_label": "apr.-aug.",
+      "arcs": [
+        {
+          "inner_radius": 98, "start_angle": 340, "end_angle": 140,
+          "gradient_colors": [
+            { "color": "#72bde5", "offset": 0 },
+            { "color": "#72bde5", "offset": 75 },
+            { "color": "#751aff", "offset": 100 }
+          ]
+        },
+        {
+          "inner_radius": 77, "start_angle": 300, "end_angle": 165,
+          "text": {
+            "label": "ACTIA - Internship", "reverse_text": true, "color": "grey", "size": 12
+          },
+          "tooltip": "<div style=\"font-size:17px;font-weight:medium\">ACTIA - Telecom department (Toulouse - FRANCE)</div>Final-year internship - 6 months<br><br>Integrating a new Wifi module and its open-source driver<br><br>into a high speed transmission system based on the 802.11ac standard",
+          "redirect": "https://www.actia.com/en/",
+          "mouseover_images": [
+            {
+              "path": "img/actia.png",
+              "x": 225, "y": 500, "width": 389, "height": 92
+            },
+            {
+              "path": "img/ath10k.png",
+              "x": 275, "y": 640, "width": 300, "height": 150
+            },
+            {
+              "path": "img/router_wifi.png",
+              "x": 730, "y": 640, "width": 300, "height": 150
+            }
+          ],
+          "gradient_colors": [
+            { "color": "#2c0066", "offset": 0 },
+            { "color": "#2298de", "offset": 80 },
+            { "color": "#00bb6a", "offset": 100 }
+          ]
+        }
+      ],
+      "rays": [
+        {
+          "length": 165, "angle": 210,
+          "text": { "label": "March", "color": "#00b8e6", "font": "Esteban", "size": 11, "dy": 0.6 },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        { "length": 124, "angle": 142.5, "ray": { "width": 1, "color": "grey" } },
+        {
+          "length": 165, "angle": 75,
+          "text": { "label": "August", "color": "#00b8e6", "font": "Esteban", "size": 11, "dy": 0.6 , "reverse_text": true},
+          "ray": { "width": 1, "color": "grey" }
+        }
+      ]
+    },
+    {
+      "center_x": 822,
+      "center_y": 848,
+      "label": "2014-2019",
+      "rays": [
+        {
+          "length": 188, "angle": 270,
+          "text": {
+            "label": "2015", "color": "#00b8e6", "font": "Esteban",
+            "size": 11, "dy": 0.6, "reverse_text": true
+          },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 313, "angle": 285,
+          "text": {
+            "label": "Baggage revenu management", "color": "grey", "size": 12,
+            "dy": 0.6, "font": "Esteban", "reverse_text": true
+          },
+          "tooltip": "<div style=\"font-size:17px;font-weight:medium\">Project LHSOR6B</div><br>Automatic the pricing computation for multiple baggages check-in at the airport<br><br>Computation upto a group of 9 passengers",
+          "mouseover_images": [
+            {
+              "path": "img/lufthansa.png",
+              "x": 350, "y": 480, "width": 450, "height": 80
+            },
+            {
+              "path": "img/baggage.png",
+              "x": 350, "y": 600, "width": 450, "height": 250
+            }
+          ],
+          "ray": { "width": 1, "color": "lightsteelblue" }
+        },
+        {
+          "length": 188, "angle": 300,
+          "text": {
+            "label": "2016", "color": "#00b8e6", "font": "Esteban",
+            "size": 11, "dy": 0.6, "reverse_text": true
+          },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 232, "angle": 315,
+          "text": {
+            "label": "Join ESN Nice", "color": "grey", "size": 12,
+            "dy": 0.6, "font": "Esteban", "reverse_text": true
+          },
+          "tooltip": "<div style=\"font-size:17px;font-weight:medium\">Erasmus Student Network Nice</div><br>Local webmaster and volunteer activites<br><br>Update and maintain the local website<br><br>Implement GSuite for internal and external communication",
+          "redirect": "https://nice.esnfrance.org/",
+          "mouseover_images": [
+            {
+              "path": "img/esn_nice.png",
+              "x": 375, "y": 640, "width": 500, "height": 400
+            },
+            {
+              "path": "img/gsuite.png",
+              "x": 1020, "y": 700, "width": 200, "height": 80
+            }
+          ],
+          "ray": { "width": 1, "color": "lightsteelblue" }
+        },
+        {
+          "length": 345, "angle": 325,
+          "text": {
+            "label": "Merchandizing - Ancillary discount", "color": "grey", "size": 12,
+            "dy": 0.6, "font": "Esteban", "reverse_text": true
+          },
+          "tooltip": "<div style=\"font-size:17px;font-weight:medium\">Ancillary discount</div><br>Put in place a system to help the airlines filling discount rules in real time and applying it<br>",
+          "mouseover_images": [
+            {
+              "path": "img/proto_2.png",
+              "x": 1100, "y": 700, "width": 200, "height": 100
+            }
+          ],
+          "ray": { "width": 1, "color": "lightsteelblue" }
+        },
+        {
+          "length": 188, "angle": 340,
+          "text": {
+            "label": "2017", "color": "#00b8e6", "font": "Esteban",
+            "size": 11, "dy": 0.6, "reverse_text": true
+          },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 320, "angle": 0,
+          "text": {
+            "label": "Ancillary catalog enhancement", "color": "grey", "size": 12,
+            "dy": 0.6, "font": "Esteban", "reverse_text": true
+          },
+          "tooltip": "<div style=\"font-size:17px;font-weight:medium\">Ancillary catalog enhancement</div><br>Increasing 10 times (from 100 to 1000) the number of items in the catalog<br><br>Automatic the process to exchange ancillary service when changing ticket",
+          "mouseover_images": [
+            {
+              "path": "img/catalog.png",
+              "x": 700, "y": 700, "width": 300, "height": 200
+            }
+          ],
+          "ray": { "width": 1, "color": "lightsteelblue" }
+        },
+        {
+          "length": 188, "angle": 15,
+          "text": {
+            "label": "2018", "color": "#00b8e6", "font": "Esteban",
+            "size": 11, "dy": 0.6, "reverse_text": true
+          },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 220, "angle": 35,
+          "text": {
+            "label": "Promocode", "color": "grey", "size": 12,
+            "dy": 0.6, "font": "Esteban", "reverse_text": true
+          },
+          "tooltip": "<div style=\"font-size:17px;font-weight:medium\">PromoCode for Air Canada</div><br>Put in place a system to build special pricing rate for AirCanada basing on the promocode information",
+          "mouseover_images": [
+            {
+              "path": "img/aircanada.png",
+              "x": 870, "y": 650, "width": 350, "height": 250
+            },
+            {
+              "path": "img/promocode.png",
+              "x": 835, "y": 900, "width": 120, "height": 120
+            }
+          ],
+          "ray": { "width": 1, "color": "lightsteelblue" }
+        },
+        {
+          "length": 188, "angle": 55,
+          "text": {
+            "label": "2019", "color": "#00b8e6", "font": "Esteban",
+            "size": 11, "dy": 0.6, "reverse_text": true
+          },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 253, "angle": 65,
+          "text": {
+            "label": "Scala Certification", "color": "grey", "size": 12,
+            "dy": 0.6, "font": "Esteban", "reverse_text": true
+          },
+          "tooltip": "",
+          "redirect": "https://www.coursera.org/account/accomplishments/certificate/BNBJB6YCQFTP",
+          "mouseover_images": [
+            {
+              "path": "img/coursera.png",
+              "x": 735, "y": 875, "width": 125, "height": 125
+            },
+            {
+              "path": "img/scala.png",
+              "x": 935, "y": 935, "width": 280, "height": 200
+            }
+          ],
+          "ray": { "width": 1, "color": "lightsteelblue" }
+        }
+      ],
+      "arcs": [
+        {
+          "inner_radius": 111, "start_angle": 320, "end_angle": 546,
+          "text": {
+            "label": "Professional Experiences", "reverse_text": false, "color": "#a6a6a6"
+          },
+          "gradient_colors": [
+            { "color": "#751aff", "offset": 0 },
+            { "color": "#751aff", "offset": 100 }
+          ]
+        },
+        {
+          "inner_radius": 132, "start_angle": 335, "end_angle": 528,
+          "text": {
+            "label": "AMADEUS", "reverse_text": false, "color": "grey", "size": 11
+          },
+          "tooltip": "<div style=\"font-size:17px;font-weight:medium\">AMADEUS (Sophia Antipolis, FRANCE)</div>Software engineer - 5 years<br><br>Global Distribution System - Travel B2B IT provider.<br>Search, shopping, pricing department<br><br>Mainly focus on ancillary services and discount",
+          "redirect": "http://www.amadeus.com",
+          "mouseover_images": [
+            {
+              "path": "img/docker.png",
+              "x": 950, "y": 740, "width": 250, "height": 150
+            },
+            {
+              "path": "img/atlassian.png",
+              "x": 870, "y": 710, "width": 200, "height": 53
+            },
+            {
+              "path": "img/jenkins.png",
+              "x": 1070, "y": 690, "width": 110, "height": 110
+            },
+            {
+              "path": "img/json_1.png",
+              "x": 1193, "y": 710, "width": 120, "height": 90
+            },
+            {
+              "path": "img/cprogramming.png",
+              "x": 900, "y": 780, "width": 52, "height": 52
+            },
+            {
+              "path": "img/cplusplus.png",
+              "x": 920, "y": 850, "width": 73, "height": 73
+            },
+            {
+              "path": "img/proto.png",
+              "x": 1050, "y": 850, "width": 120, "height": 80
+            },
+            {
+              "path": "img/googletest.png",
+              "x": 1175, "y": 830, "width": 120, "height": 80
+            }
+          ],
+          "gradient_colors": [
+            { "color": "#2c0066", "offset": 0 },
+            { "color": "#2298de", "offset": 80 },
+            { "color": "#00bb6a", "offset": 100 }
+          ]
+        }
+      ]
+    },
+    {
+      "center_x": 798,
+      "center_y": 1081.2,
+      "draw_white_circle": true,
+      "label": "2020",
+      "rays": [
+        {
+          "length": 178, "angle": 250,
+          "text": { "label": "February", "color": "#00b8e6", "font": "Esteban", "size": 11, "dy": 0.6 },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 178, "angle": 210,
+          "text": {
+            "label": "May", "color": "#00b8e6", "font": "Esteban",
+            "size": 11, "dy": 0.6
+          },
+          "ray": { "width": 1, "color": "grey" }
+        },
+        {
+          "length": 255, "angle": 200,
+          "text": {
+            "label": "Golang Certification", "color": "grey", "size": 12,
+            "dy": 0.6, "font": "Esteban"
+          },
+          "tooltip": "",
+          "redirect": "https://www.coursera.org/account/accomplishments/specialization/certificate/6F5SEVQANLW2",
+          "mouseover_images": [
+            {
+              "path": "img/coursera_2.png",
+              "x": 575, "y": 825, "width": 125, "height": 125
+            },
+            {
+              "path": "img/golang.png",
+              "x": 310, "y": 850, "width": 250, "height": 180
+            }
+          ],
+          "ray": { "width": 1, "color": "lightsteelblue" }
+        },
+        {
+          "length": 275, "angle": 190,
+          "text": {
+            "label": "Kubernetes Certification", "color": "grey", "size": 12,
+            "dy": 0.6, "font": "Esteban"
+          },
+          "tooltip": "",
+          "redirect": "https://www.coursera.org/account/accomplishments/specialization/certificate/FF6LTNPALS86",
+          "mouseover_images": [
+            {
+              "path": "img/coursera_3.png",
+              "x": 500, "y": 850, "width": 125, "height": 125
+            },
+            {
+              "path": "img/google_cloud.png",
+              "x": 300, "y": 880, "width": 210, "height": 210
+            },
+            {
+              "path": "img/kubernetes.png",
+              "x": 445, "y": 1010, "width": 220, "height": 220
+            }
+          ],
+          "ray": { "width": 1, "color": "lightsteelblue" }
+        }
+      ],
+      "arcs": [
+        {
+          "inner_radius": 102, "start_angle": 366, "end_angle": 240,
+          "gradient_colors": [
+            { "color": "#751aff", "offset": 0 },
+            { "color": "#751aff", "offset": 100 }
+          ],
+          "shadow_dissipation": true
+        },
+        {
+          "inner_radius": 123, "start_angle": 340, "end_angle": 255,
+          "text": {
+            "label": "MyCoach", "reverse_text": true, "color": "grey", "size": 11,
+            "startOffset": "85%"
+          },
+          "tooltip": "<div style=\"font-size:17px;font-weight:medium\">MyCoach (Nice, FR)</div>Scala BackEnd developer<br><br>A startup based inside the stadium of Nice, providing IT solutions for sport coaching and management<br><br>Microservices written in Akka-stream and Akka-http orchestrated by Kubernetes on GCP clusters",
+          "redirect": "https://www.mycoachsport.com",
+          "mouseover_images": [
+            {
+              "path": "img/scala2.png",
+              "x": 900, "y": 930, "width": 325, "height": 225
+            },
+            {
+              "path": "img/akka.png",
+              "x": 1110, "y": 1020, "width": 200, "height": 260
+            },
+            {
+              "path": "img/golang_2.png",
+              "x": 1005, "y": 1110, "width": 100, "height": 50
+            },  
+            {
+              "path": "img/mongodb3.png",
+              "x": 1183, "y": 900, "width": 150, "height": 100
+            },
+            {
+              "path": "img/travis.png",
+              "x": 1220, "y": 1000, "width": 100, "height": 100
+            },
+            {
+              "path": "img/slick.png",
+              "x": 850, "y": 1090, "width": 125, "height": 100
+            },
+            {
+              "path": "img/mysql.png",
+              "x": 950, "y": 1150, "width": 85, "height": 85
+            },
+            {
+              "path": "img/kubernetes_2.png",
+              "x": 825, "y": 1000, "width": 85, "height": 85
+            }                       
+          ],
+          "gradient_colors": [
+            { "color": "#2c0066", "offset": 0 },
+            { "color": "#2298de", "offset": 25 },
+            { "color": "#00bb6a", "offset": 55 }
+          ],
+          "shadow_dissipation": true
+        }
+      ]
+    }
+  ],
+  "circle_radius": 77,
+  "arc_width": 21
+}
