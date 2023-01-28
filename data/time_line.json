@@ -572,7 +572,7 @@
       "center_x": 798,
       "center_y": 1081.2,
       "draw_white_circle": true,
-      "label": "2020",
+      "label": "2020-2021",
       "rays": [
         {
           "length": 178, "angle": 250,
@@ -634,7 +634,7 @@
       ],
       "arcs": [
         {
-          "inner_radius": 102, "start_angle": 366, "end_angle": 240,
+          "inner_radius": 102, "start_angle": 366, "end_angle": 222,
           "gradient_colors": [
             { "color": "#751aff", "offset": 0 },
             { "color": "#751aff", "offset": 100 }
@@ -642,7 +642,7 @@
           "shadow_dissipation": true
         },
         {
-          "inner_radius": 123, "start_angle": 340, "end_angle": 255,
+          "inner_radius": 123, "start_angle": 330, "end_angle": 250,
           "text": {
             "label": "MyCoach", "reverse_text": true, "color": "grey", "size": 11,
             "startOffset": "85%"
@@ -689,6 +689,50 @@
             { "color": "#00bb6a", "offset": 55 }
           ],
           "shadow_dissipation": true
+        }
+      ]
+    },
+    {
+      "center_x": 635,
+      "center_y": 1249,
+      "draw_white_circle": true,
+      "label": "2021",
+      "arcs": [
+        {
+          "inner_radius": 111, "start_angle": 45, "end_angle": 228,
+          "gradient_colors": [
+            { "color": "#751aff", "offset": 0 },
+            { "color": "#751aff", "offset": 80 }
+          ],
+          "gradient_rotation": 349,
+          "shadow_dissipation": true
+        },
+        {
+          "inner_radius": 132, "start_angle": 70, "end_angle": 200,
+          "text": {
+            "label": "Cognite AS", "reverse_text": false, "color": "grey", "size": 11,
+            "startOffset": "1%"
+          },
+          "tooltip": "<div style=\"font-size:17px;font-weight:medium\">Cognite AS (Oslo, NO)</div>Tech lead & Software engineer<br><br>An industrial software company headquartered in Oslo, we create software for oil and gas, renewable energy, manufacturing and other asset-heavy industries<br>Responsible for Transformation service, which is built on top of Apache Spark<br>Managed and mentored a team of 4 software engineers",
+          "redirect": "https://www.cognite.com/en/",
+          "mouseover_images": [],
+          "gradient_colors": [
+            { "color": "#00bb6a", "offset": 40 },
+            { "color": "#2298de", "offset": 65 },
+            { "color": "#2c0066", "offset": 90 }
+          ],
+          "gradient_rotation": -17,
+          "shadow_dissipation": true
+        }
+      ],
+      "rays": [
+        {
+          "length": 204, "angle": -20,
+          "text": {
+            "label": "October", "color": "#00b8e6", "font": "Esteban",
+            "size": 11, "dy": 0.6, "reverse_text": true
+          },
+          "ray": { "width": 1, "color": "grey" }
         }
       ]
     }

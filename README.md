@@ -12,3 +12,6 @@ this pretty [info-design](https://www.behance.net/gallery/7990211/Infographic-De
 by Chen-Wen Liang.
 
 The time line can actually be transposed to anyone's resume by modifying the json input data file.
+
+# How to run
+After updating the json data file, you can test it by running `live-server` at the root of the repo

@@ -5,11 +5,11 @@
       "font": "Ubuntu", "weight": "medium", "x": -175, "y": 110
     },
     {
-      "text": "Data Engineer", "size": 29, "color": "#4e5056",
-      "font": "Ubuntu", "weight": "default", "x": -150, "y": 150
+      "text": "Software Engineer", "size": 29, "color": "#4e5056",
+      "font": "Ubuntu", "weight": "default", "x": -170, "y": 150
     },
     {
-      "text": "Nice, FR", "size": 15, "color": "#4e5056",
+      "text": "Oslo, NO", "size": 15, "color": "#4e5056",
       "font": "Ubuntu", "weight": "default", "x": -525, "y": 925
     },
     {
@@ -17,7 +17,7 @@
       "font": "Ubuntu", "weight": "default", "x": -525, "y": 950
     },
     {
-      "text": "Last updated: 2020-04-10", "size": 13, "color": "#4e5056",
+      "text": "Last updated: 2023-29-01", "size": 13, "color": "#4e5056",
       "font": "Ubuntu", "weight": "default", "x": 400, "y": 1450,
       "opacity": 0.6
     }
@@ -84,6 +84,11 @@
     {
       "path": "img/mycoach.png",
       "x": 73, "y": 1090, "width": 27, "height": 27,
+      "opacity": 0.6
+    },
+    {
+      "path": "img/cognite.png",
+      "x": -97, "y": 1250, "width": 40, "height": 40,
       "opacity": 0.6
     }
   ]
